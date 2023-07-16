@@ -2,7 +2,7 @@
 <h2>I`m abolfaz alekasir</h2>
 
 ## ⚡ Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style%253Dfor-the-badge%2526logo%253Dhtml5%2526logoColor%253Dwhite)
+![HTML5](https://img.sheild.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style%253Dfor-the-badge%2526logo%253Dcss3%2526logoColor%253Dwhite)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style%253Dfor-the-badge%2526logo%253Djavascript%2526logoColor%253DF7DF1E)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style%253Dfor-the-badge%2526logo%253Dgo%2526logoColor%253Dwhite)
